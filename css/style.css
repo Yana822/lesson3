@@ -1,0 +1,56 @@
+* {
+	text-align: center;
+}
+
+.introduction-title {
+	color: blue;
+	font-weight: bold;
+}
+
+span {
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+#blue {
+	color: blue;
+}
+
+#green {
+	color: green;
+}
+
+#yellow {
+	color: orange;
+}
+
+p.border-green {
+	border: 3px solid green;
+	padding: 10px;
+}
+
+.features-first-route-list .item-orange {
+	color: orange;
+}
+
+.list-style * {
+	list-style-type: square;
+	margin-bottom: 3px;
+}
+
+.features-second-route-list>li {
+	color: green;
+}
+
+.introduction~section {
+	border: 3px solid orange;
+	padding: 20px;
+}
+
+.introduction-info.main-text {
+	color: red;
+}
+
+.blue-color-text {
+	color: blue;
+}
